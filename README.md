@@ -20,3 +20,5 @@ This is even a better idea
 Test master branch
 
 Idea on branch2
+
+I have a good idea, I guess I need to add another dimension to your project:) 
