@@ -3,4 +3,7 @@ Learning GIT
 
 ## subtitle
 
-## this is another subtitle
+### this is another subtitle
+
+
+Just more text
