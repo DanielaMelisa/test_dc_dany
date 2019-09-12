@@ -23,22 +23,4 @@ Idea on branch2
 
 
 
-Jess was here, sup :)
-
-
-
-
-
-
-
-
-
-
-
-
-This
-is
-a
-test
-
-heyyyyy
+I'm going to cause some chaos!!!!!!
