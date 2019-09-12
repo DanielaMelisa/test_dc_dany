@@ -16,4 +16,7 @@ Other other test in the branch
 
 This is even a better idea
 
+
 Test master branch
+
+Idea on branch2
